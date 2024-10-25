@@ -108,14 +108,20 @@ body{
 .texto-h3{
     font-size: 32px;
 }
+.rodape{
+    text-align: center;
+
+}
+
 .rodape-lista{
     display: flex;
+    list-style-type:none;
+    justify-content: center;
+    margin: 1em 0;
 }
-.rodape-logo{
-    text-align: center;
-}
-.paragrafo-rodape{
+
+.rodape-texto{
     margin:2em 0;
-    text-align:center ;
+    
 }
 
